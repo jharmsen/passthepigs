@@ -19,6 +19,7 @@ A modern, responsive, and aesthetically pleasing scoring application for the cla
 - **Lucide React**: Clean icons.
 - **Framer Motion**: Smooth entry and list animations.
 - **Vanilla CSS**: Custom premium styling.
+- **Antigravity**: Built using the Antigravity agentic coding assistant.
 
 ## Getting Started
 
