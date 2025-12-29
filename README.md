@@ -44,6 +44,4 @@ A modern, responsive, and aesthetically pleasing scoring application for the cla
 - **Makin' Bacon**: Total score resets to 0, turn ends.
 - **Piggyback**: Player eliminated from the game.
 
-## License
 
-MIT
